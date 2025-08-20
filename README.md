@@ -1,9 +1,9 @@
 # Backend Overview
+Backend repo for airbnb-clone-project. Provides secure APIs, database management, and cloud integration. Built with Node.js/Express, PostgreSQL, Docker, Kubernetes, and AWS. Features: user auth, role-based access, CRUD, and monitoring. CI/CD via GitHub Actions ensures scalable, secure deployment
 
 
 
-
-## 3. Technology Stack
+## Technology Stack
 - **Language & Framework:** [Node.js + Express / Python + FastAPI] for API services.  
 - **Database:** PostgreSQL for relational data storage.  
 - **Containerization & Orchestration:** Docker + Kubernetes for scalability.  
